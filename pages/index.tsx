@@ -112,7 +112,7 @@ const Home: NextPage = () => {
           disabled={receiving}
           onClick={start}
         >
-          Start
+          Iniciar
         </button>
 
         {result !== undefined ? (
